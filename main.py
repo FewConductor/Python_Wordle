@@ -32,3 +32,5 @@ while guess != ans:
         print(f'Guess {g}: {g1}')
         print(f'Remaining letters: {char}')
         g += 1
+
+print('Congratulations!')
